@@ -29,7 +29,7 @@ export const offers = [
       "Édition autonome du contenu",
       "Mise en ligne et prise en main",
     ],
-    price: "100 à 300 €",
+    price: "100 à 500 €",
     cta: "Choisir WordPress",
   },
   {
@@ -98,7 +98,7 @@ export const plans = [
     id: "wordpress",
     label: "Forfait",
     name: "WordPress",
-    amount: "100–300 €",
+    amount: "100–500 €",
     description: "Un site WordPress pour présenter une activité et recevoir des messages.",
     features: [
       "Vitrine responsive",
@@ -127,6 +127,6 @@ export const plans = [
 ];
 
 export const projectOptions = [
-  { value: "wordpress", label: "Site WordPress — 100 à 300 €" },
+  { value: "wordpress", label: "Site WordPress — 100 à 500 €" },
   { value: "devis", label: "Site personnalisé" },
 ];

@@ -6,7 +6,7 @@ const copy = {
     meta: {
       title: "Moïse Techer — Sites WordPress et sites personnalisés",
       description:
-        "Moïse Techer, intégrateur web. Sites WordPress entre 100 et 300 €, et sites personnalisés sur devis.",
+        "Moïse Techer, intégrateur web. Sites WordPress entre 100 et 500 €, et sites personnalisés sur devis.",
     },
     langLabel: "Langue",
     navLabel: "Navigation principale",
@@ -27,7 +27,7 @@ const copy = {
       titleBefore: "Des sites clairs, ",
       titleEm: "utiles",
       titleAfter: ", prêts à convertir.",
-      copy: "Je livre des sites WordPress entre 100 et 300 €, ou un site personnalisé chiffré sur devis. HTML, CSS, JavaScript et React, en direct.",
+      copy: "Je livre des sites WordPress entre 100 et 500 €, ou un site personnalisé chiffré sur devis. HTML, CSS, JavaScript et React, en direct.",
       offers: "Voir les offres",
     },
     offers: {
@@ -46,7 +46,7 @@ const copy = {
             "Édition autonome du contenu",
             "Mise en ligne et prise en main",
           ],
-          price: "100 à 300 €",
+          price: "100 à 500 €",
           cta: "Choisir WordPress",
         },
         {
@@ -107,13 +107,13 @@ const copy = {
     pricing: {
       eyebrow: "Tarifs indicatifs",
       title: "Deux tarifs, rien d’autre",
-      lead: "WordPress est compris entre 100 et 300 € selon le nombre de pages et les contenus. Tout le reste se chiffre après le brief.",
+      lead: "WordPress est compris entre 100 et 500 € selon le nombre de pages et les contenus. Tout le reste se chiffre après le brief.",
       plans: [
         {
           id: "wordpress",
           label: "Forfait",
           name: "WordPress",
-          amount: "100–300 €",
+          amount: "100–500 €",
           description: "Un site WordPress pour présenter une activité et recevoir des messages.",
           features: ["Vitrine responsive", "Formulaire de contact", "Contenus que vous pouvez modifier", "Mise en ligne"],
           cta: "Choisir WordPress",
@@ -139,7 +139,7 @@ const copy = {
       placeholder: "Contexte, pages prévues, délai souhaité…",
       select: "Sélectionnez une option",
       options: [
-        { value: "wordpress", label: "Site WordPress — 100 à 300 €" },
+        { value: "wordpress", label: "Site WordPress — 100 à 500 €" },
         { value: "devis", label: "Site personnalisé" },
       ],
       send: "Envoyer la demande",
@@ -162,13 +162,13 @@ const copy = {
       project: "Choisissez un type de projet.",
       message: "Décrivez brièvement votre besoin (au moins 20 caractères).",
     },
-    footer: "Sites WordPress entre 100 et 300 €, et sites personnalisés sur devis.",
+    footer: "Sites WordPress entre 100 et 500 €, et sites personnalisés sur devis.",
   },
   en: {
     meta: {
       title: "Moïse Techer — WordPress sites and custom sites",
       description:
-        "Moïse Techer, web developer. WordPress sites from €100 to €300, and custom sites priced on request.",
+        "Moïse Techer, web developer. WordPress sites from €100 to €500, and custom sites priced on request.",
     },
     langLabel: "Language",
     navLabel: "Main navigation",
@@ -189,7 +189,7 @@ const copy = {
       titleBefore: "Clear, ",
       titleEm: "useful",
       titleAfter: " sites, ready to convert.",
-      copy: "I deliver WordPress sites from €100 to €300, or a custom site priced on request. HTML, CSS, JavaScript and React, directly.",
+      copy: "I deliver WordPress sites from €100 to €500, or a custom site priced on request. HTML, CSS, JavaScript and React, directly.",
       offers: "See the offers",
     },
     offers: {
@@ -208,7 +208,7 @@ const copy = {
             "Content you can edit on your own",
             "Launch and handover",
           ],
-          price: "€100 to €300",
+          price: "€100 to €500",
           cta: "Choose WordPress",
         },
         {
@@ -269,13 +269,13 @@ const copy = {
     pricing: {
       eyebrow: "Guide prices",
       title: "Two prices, nothing else",
-      lead: "WordPress is between €100 and €300 depending on the number of pages and the content. Everything else is priced after the brief.",
+      lead: "WordPress is between €100 and €500 depending on the number of pages and the content. Everything else is priced after the brief.",
       plans: [
         {
           id: "wordpress",
           label: "Package",
           name: "WordPress",
-          amount: "€100–300",
+          amount: "€100–500",
           description: "A WordPress site to present a business and receive messages.",
           features: ["Responsive showcase", "Contact form", "Content you can edit", "Launch"],
           cta: "Choose WordPress",
@@ -301,7 +301,7 @@ const copy = {
       placeholder: "Context, planned pages, desired timeline…",
       select: "Select an option",
       options: [
-        { value: "wordpress", label: "WordPress site — €100 to €300" },
+        { value: "wordpress", label: "WordPress site — €100 to €500" },
         { value: "devis", label: "Custom site" },
       ],
       send: "Send the request",
@@ -324,7 +324,7 @@ const copy = {
       project: "Choose a project type.",
       message: "Describe your need briefly (at least 20 characters).",
     },
-    footer: "WordPress sites from €100 to €300, and custom sites on request.",
+    footer: "WordPress sites from €100 to €500, and custom sites on request.",
   },
 };
 
