@@ -8,7 +8,16 @@ export default function Footer() {
     <footer className="site-footer">
       <div className="wrap footer-inner">
         <div>
-          <p className="footer-brand">Moïse Techer</p>
+          <p className="footer-brand">
+            <img
+              className="brand-mark"
+              src={`${import.meta.env.BASE_URL}favicon.svg`}
+              width="36"
+              height="36"
+              alt=""
+            />
+            Moïse Techer
+          </p>
           <p className="footer-copy">{t.footer}</p>
         </div>
         <div className="footer-meta">

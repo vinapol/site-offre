@@ -38,7 +38,13 @@ export default function Header() {
       <header className={scrolled ? "site-header is-scrolled" : "site-header"}>
         <div className="wrap header-inner">
           <a className="brand" href="#top" aria-label={t.homeLabel} onClick={close}>
-            <span className="brand-mark" aria-hidden="true" />
+            <img
+              className="brand-mark"
+              src={`${import.meta.env.BASE_URL}favicon.svg`}
+              width="36"
+              height="36"
+              alt=""
+            />
             <span className="brand-name">Moïse Techer</span>
           </a>
 
